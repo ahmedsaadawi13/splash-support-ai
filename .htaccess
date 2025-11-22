@@ -1,0 +1,7 @@
+# SplashSupportAI - Root .htaccess
+# Redirect all requests to public directory
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
