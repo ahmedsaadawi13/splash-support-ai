@@ -106,7 +106,7 @@ A complete, production-ready helpdesk and customer support platform built with P
 ### Step 1: Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/SplashSupportAI.git
+git clone https://github.com/ahmedsaadawi13/SplashSupportAI.git
 cd SplashSupportAI
 ```
 
